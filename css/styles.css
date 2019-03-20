@@ -132,12 +132,11 @@ a:visited {
   display: block;
   height: 400px;
 }
-
-#molly-nelson-cover {
+#molly-nelson-card {
  background-image: url("https://imgur.com/a/oww9YsA");
 }
 
-#molly-nelson-card {
+#molly-nelson-cover {
  background-image: url("https://imgur.com/a/oww9YsA");
 }
 
